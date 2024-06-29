@@ -65,6 +65,10 @@ O projeto está resumido da seguinte forma:
 - Perguntas do Problema de Negócio
 - Exportar Versões de Pacotes Utilizados e do Modelo de Machine Learning
 
+ ## Leitura do Projeto
+
+ O projeto pode ser consultado e lido facilmente pelo aquivo Projeto_Indicium.html dentro do repositório.
+
  ## Contato
 
 Para dúvidas ou sugestões, entre em contato:
