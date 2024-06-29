@@ -58,7 +58,7 @@ Para dúvidas ou sugestões, entre em contato:
 
 - Nome: Heverton Alves Mendonça
 - Email: hevertonalves9242@gmail.com
-- LinkedIn: [Heverton]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/heverton-alves-32378b2ab/))
+- LinkedIn: [Heverton](https://www.linkedin.com/in/heverton-alves-32378b2ab/)
 
 
 ## Estrutura do Projeto
