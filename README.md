@@ -63,21 +63,13 @@ Para dúvidas ou sugestões, entre em contato:
 
 ## Estrutura do Projeto
 
-Descreva brevemente a estrutura do projeto, por exemplo:
+O projeto está resumido da seguinte forma:
 
-repo-name/
-│
-├── data/ # Diretório contendo datasets
-│ ├── train.csv
-│ └── test.csv
-│
-├── notebooks/ # Diretório contendo Jupyter Notebooks
-│ └── model_training.ipynb
-│
-├── src/ # Diretório contendo código fonte
-│ └── model.py
-│
-├── requirements.txt # Arquivo de dependências
-├── README.md # Este arquivo
-└── nome_do_script.py # Script principal (se aplicável)
-
+- Imports Iniciais
+- Carregando e Mostrando os Dados
+- Análise exploratória
+- Análise de Outliers
+- Treinamento do Modelo de Machine Learning
+- Previsão da Nota IMBD do Filme Proposto Pelo Problema de Negócio
+- Perguntas do Problema de Negócio
+- Exportar Versões de Pacotes Utilizados e do Modelo de Machine Learning
