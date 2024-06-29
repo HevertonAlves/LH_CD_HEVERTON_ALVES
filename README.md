@@ -52,15 +52,6 @@ As principais bibliotecas utilizadas neste projeto são:
 
 Todas as dependências estão listadas no arquivo `requirements.txt`.
 
-## Contato
-
-Para dúvidas ou sugestões, entre em contato:
-
-- Nome: Heverton Alves Mendonça
-- Email: hevertonalves9242@gmail.com
-- LinkedIn: [Heverton](https://www.linkedin.com/in/heverton-alves-32378b2ab/)
-
-
 ## Estrutura do Projeto
 
 O projeto está resumido da seguinte forma:
@@ -73,3 +64,12 @@ O projeto está resumido da seguinte forma:
 - Previsão da Nota IMBD do Filme Proposto Pelo Problema de Negócio
 - Perguntas do Problema de Negócio
 - Exportar Versões de Pacotes Utilizados e do Modelo de Machine Learning
+
+ ## Contato
+
+Para dúvidas ou sugestões, entre em contato:
+
+- Nome: Heverton Alves Mendonça
+- Email: hevertonalves9242@gmail.com
+- LinkedIn: [Heverton](https://www.linkedin.com/in/heverton-alves-32378b2ab/)
+
