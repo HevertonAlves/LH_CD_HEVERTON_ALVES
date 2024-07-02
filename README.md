@@ -4,7 +4,7 @@
 
 #### Análise Exploratória de Dados e Machine Learning em Linguagem Python - Heverton Alves Mendonça
 
-Este projeto de Ciência de Dados foi desenvolvido para resolver alguns problemas de negócio relacionados a um dataset com características de filmes. O objetivo principal deste projeto é demonstrar algumas técnicas de análise exploratória e a criação de um modelo de machine learning para prever a nota IMDB de um filme. O código é escrito em Python e utiliza bibliotecas populares para manipulação de dados e machine learning.
+Este projeto de Ciência de Dados foi desenvolvido para resolver um desafio de ciência de dados com alguns problemas de negócio relacionados a um dataset com características de filmes. O objetivo principal deste projeto é demonstrar algumas técnicas de análise exploratória e a criação de um modelo de machine learning para prever a nota IMDB de um filme. O código é escrito em Python e utiliza bibliotecas populares para manipulação de dados e machine learning.
 
 ## Pré-requisitos
 
